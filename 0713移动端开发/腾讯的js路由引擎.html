@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js路由引擎/模板引擎</title>
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+    <script type="text/javascript" src="js/zepto/zepto.js"></script>
+    <script type="text/javascript" src="js/router.min.js"></script>
+    <script type="text/javascript" src="js/template.js"></script>
+
+
+</head>
+<body>
+<div id="c1"></div>
+
+<ul>
+    <li><a href="#/home">测试一1</a></li>
+    <li><a href="#/text2">测试一2</a></li>
+    <li><a href="#/text3">测试一3</a></li>
+    <li><button id="text4">测试一4</button></li>
+</ul>
+
+
+
+<script type="text/html" id="category">
+    {{each list as list1}}
+        <div class="category">
+        <h2>{{list1.name}}</h2>
+            <ul>
+                {{each list1.list as list2}}
+                <li>
+                    <a href="{{list2.href}}">
+                        <img src="{{list2.img_url}}" alt="">
+                        <span>{{list2.name}}</span>
+                    </a>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+    {{/each}}
+</script>
+
+<script type="text/javascript">
+    $(function(){
+        var router1 = new Router({
+            container:"#c1"
+        });
+
+        var h1 = {
+            url:"/home",
+            className:"hhh",
+            render:function (){
+                return "<p>我是home</p>"
+            },
+        };
+        var h2 = {
+            url:"/text2",
+            className:"hhh",
+            render:function (callback){
+                $.ajax({
+                    url:"ajax.html",
+                    type:"get",
+                    dataType:"html",
+                    success:function(html){
+                        callback(null,html);
+                    }
+                });
+
+            }
+
+        };
+        var h3 = {
+            url:"/text3",
+            className:"hhh",
+            render:function ( callback ){
+                $.ajax({
+                    url:"category.json",
+                    type:"get",
+                    dataType:"json",
+                    success:function(json){
+                        var html = template("category",json.data);
+                        callback(null,html);
+                    }
+                });
+            }
+        };
+        var h4 = {
+         url:"/text4",
+         className:"hhh",
+         render:function (){
+         return "<p>我是home4</p>"
+         },
+         bind:function(){
+
+         }
+         };
+
+        router1.push(h1).push(h2).push(h3).push(h4).setDefault("/text3").init();
+        $("#text4").on('click',function(){
+//            location.href = "#/text4"
+            router1.go("/text4")
+        });
+    })
+
+</script>
+</body>
+</html>

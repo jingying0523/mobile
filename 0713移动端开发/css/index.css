@@ -1,0 +1,13 @@
+﻿* {margin: 0; padding: 0; }
+body { color: #666; font-size: 14px; font-family: 'Microsoft YaHei',STSong; background: #f5f5f5;margin: 0; padding: 0; }
+html{margin: 0; padding: 0; }
+ul, li, h1, h2, h3, h4, h5, h6, p { margin: 0; padding: 0; color: palevioletred;}
+
+.mask{ position: fixed; top:0; left:0;right:0;bottom:0; background: rgba(0,0,0,0.5); transition: all ease 0.5s;}
+.mask>.msgbox{ width: 400px; margin: 0 auto; background-color: white;padding: 20px; position: absolute;}
+.mask>.msgbox>.head{ position: relative;}
+.mask>.msgbox>.head{ position: relative;}
+.mask>.msgbox>.head>.close{ position: absolute; right: 20px; top:2px; cursor: pointer;}
+.mask>.msgbox>.footer>button{ margin: 20px; display: inline-block; border:0px; background-color: coral;}
+
+

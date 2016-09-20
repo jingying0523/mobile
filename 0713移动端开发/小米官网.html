@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=720,user-scalable=no"/>
+    <title>小米官方商城</title>
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+    <script type="text/javascript" src="js/zepto/zepto.js"></script>
+    <script type="text/javascript" src="js/router.min.js"></script>
+    <script type="text/javascript" src="js/template.js"></script>
+    <script type="text/javascript" src="js/jquery.roll.js"></script>
+    <style type="text/css">
+        body {
+            margin: 0;
+            font-size: 24px;
+            width: 720px;
+            font-family: '宋体';
+            background: #e5e5e5;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        ul, li, p {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        #container {
+            height: 100%;
+            width: 720px;
+            padding-bottom: 85px;
+        }
+
+        nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 720px;
+            background: #fff;
+            border-top: solid 1px #ccc;
+            padding: 10px 0;
+        }
+
+        nav > ul {
+            font-size: 0;
+            text-align: center;
+        }
+
+        nav > ul > li {
+            display: inline-block;
+            font-size: 24px;
+            width: 25%;
+            background: #fff !important;
+        }
+
+        nav > ul > li > a {
+            display: block;
+        }
+
+        nav > ul > li > a > .icon {
+            display: block;
+            width: 40px !important;
+            height: 40px !important;
+            margin: 0 auto;
+            background: url(images/spr1.png) no-repeat;
+            background-size: 40px;
+        }
+
+        nav > ul > li > a > .lab {
+            font-size: 24px;
+            color: #999;
+            height: 30px;
+            line-height: 30px;
+        }
+
+        nav > ul > li.home > a > .icon {
+            background-position: 0 -280px;
+        }
+
+        nav > ul > li.category > a > .icon {
+            background-position: 0 -40px;
+        }
+
+        nav > ul > li.cart > a > .icon {
+            background-position: 0 -120px;
+        }
+
+        nav > ul > li.service > a > .icon {
+            background-position: 0 -200px;
+        }
+
+        nav > ul > li.home.active > a > .icon {
+            background-position: 0 -240px;
+        }
+
+        nav > ul > li.category.active > a > .icon {
+            background-position: 0 -0px;
+        }
+
+        nav > ul > li.cart.active > a > .icon {
+            background-position: 0 -80px;
+        }
+
+        nav > ul > li.service.active > a > .icon {
+            background-position: 0 -160px;
+        }
+
+        nav > ul > li.active > a > .lab {
+            color: #ff6a00;
+        }
+
+        .category {
+        }
+
+        .category > .list {
+            background: #fff;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        .category > .list > h2 {
+            text-align: center;
+            font-size: 29px;
+            font-weight: bold;
+        }
+
+        .category > .list > ul {
+        }
+
+        .category > .list > ul:after {
+            content: "";
+            display: block;
+            height: 0;
+            overflow: hidden;
+            clear: both;
+        }
+
+        .category > .list > ul > li {
+            display: block;
+            float: left;
+            width: 130px;
+            margin: 15px;
+        }
+
+        .category > .list > ul > li > a {
+            text-align: center;
+        }
+
+        .category > .list > ul > li > a > img {
+            display: block;
+            width: 80px;
+            margin: 0 auto;
+        }
+
+        .category > .list > ul > li > a > span {
+            display: block;
+            margin-top: 15px;
+            font-size: 24px;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+
+        .home {
+        }
+
+        .home > .slide {
+            position: relative;
+            overflow: hidden;
+            width: 720px;
+            height: 360px;
+            overflow: hidden;
+        }
+
+        .home > .slide > .slide-content {
+            position: absolute;
+            font-size: 0px;
+            white-space: nowrap;
+        }
+
+        .home > .slide > .slide-content > li {
+            display: inline-block;
+        }
+
+        .home > .slide > .slide-content > li img {
+            width: 720px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li class="home">
+            <a href="#/home">
+                <div class="icon"></div>
+                <div class="lab">商城</div>
+            </a>
+        </li>
+        <li class="category">
+            <a href="#/category">
+                <div class="icon"></div>
+                <div class="lab">分类</div>
+            </a>
+        </li>
+        <li class="cart">
+            <a href="#/cart">
+                <div class="icon"></div>
+                <div class="lab">购物车</div>
+            </a>
+        </li>
+        <li class="service">
+            <a href="#/service">
+                <div class="icon"></div>
+                <div class="lab">服务</div>
+            </a>
+        </li>
+    </ul>
+</nav>
+<div id="container" class="container">
+    <h2>这里放各个页面的框架</h2>
+</div>
+
+<script type="text/html" id="template_category">
+    {{each list as list1}}
+    <div class="category">
+        <div class="list">
+            <h2>{{list1.name}}</h2>
+            <ul>
+                {{each list1.list as list2}}
+                <li>
+                    <a href="{{list2.href}}">
+                        <img src="{{list2.img_url}}" alt="">
+                        <span>{{list2.name}}</span>
+                    </a>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+    </div>
+    {{/each}}
+</script>
+
+<script type="text/html" id="template_home">
+
+        <div class="slide">
+            <ul class="slide-content">
+                {{each gallery as item1}}
+                <li><img src="{{item1.img_url}}" alt=""></li>
+                {{/each}}
+            </ul>
+            <ul class="slide-page"></ul>
+        </div>
+
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        var router1 = new Router({
+            container: "#container"
+        });
+
+        var h1 = {
+            url: "/home",
+            className: "home",
+            render: function (callback) {
+                $.ajax({
+                    url: "index.json",
+                    type: "post",
+                    dataType: "json",
+                    success: function (json) {
+                        var html = template("template_home", json.data);
+                        callback(null, html)
+                    }
+                })
+            },
+            bind:function(){
+                $("#container .home").roll({
+                    outer_selector: '.slide',
+                    inner_selector: '.slide-content',
+                    interval: 2000,
+                    pager_selector: '.slide-page'
+
+                });
+                console.debug();
+            }
+        };
+        var h2 = {
+            url: "/category",
+            className: "hhh",
+            render: function (callback) {
+                $.ajax({
+                    url: "category.json",
+                    type: "get",
+                    dataType: "json",
+                    success: function (json) {
+                        var html = template("template_category", json.data);
+                        callback(null, html);
+                    }
+                });
+
+            }
+
+        };
+        var h3 = {
+            url: "/cart",
+            className: "hhh",
+            render: function (callback) {
+                $.ajax({
+                    url: "category.json",
+                    type: "get",
+                    dataType: "json",
+                    success: function (json) {
+                        var html = template("template_category", json.data);
+                        callback(null, html);
+                    }
+                });
+            }
+        };
+        var h4 = {
+            url: "/service",
+            className: "hhh",
+            render: function () {
+                return "<p>我是home4</p>"
+            },
+            bind: function () {
+
+            }
+        };
+
+        router1.push(h1).push(h2).push(h3).push(h4).setDefault("/service").init();
+//        $("#text4").on('click',function(){
+////            location.href = "#/text4"
+//            router1.go("/text4")
+//        });
+    })
+
+</script>
+</body>
+</html>

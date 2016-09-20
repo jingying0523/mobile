@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>zepto测试</title>
+    <!--<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>-->
+    <script type="text/javascript" src="js/zepto/zepto.min.js"></script>
+    <script type="text/javascript" src="js/zepto/touch.js"></script>
+    <script type="text/javascript" src="js/zepto/event.js"></script>
+
+</head>
+<body>
+
+<div id="t1"></div>
+<div id="t2"></div>
+<div id="t3"></div>
+<script type="text/javascript">
+    var t1 = $("div:eq(0)"),
+            t2 = $("div:eq(1)");
+    t1.css({ width:200,height:200,background:"red"});
+    t2.css({ width:200,height:200,background:"green"});
+
+    t1.swipe(function(e){
+        console.debug("swipe",e);
+    });
+    t1.swipeLeft(function(e){
+        console.debug("swipeLeft",e);
+    });
+    t1.swipeRight(function(e){
+        console.debug("swipeRight",e);
+    });
+    t1.swipeUp(function(e){
+        console.debug("swipeUp",e);
+    });
+    t1.swipeDown(function(e){
+        console.debug("swipeDown",e);
+    });
+
+
+    t2.tap(function(e){
+        console.debug("tap",e,e.timeStamp);
+    });
+    t2.doubleTap(function(e){
+        console.debug("doubletap",e,e.timeStamp);
+    });
+    t2.singleTap(function(e){
+        console.debug("singletap",e,e.timeStamp);
+    });
+    t2.longTap(function(e){
+        console.debug("longtap",e,e.timeStamp);
+    });
+
+
+    $("html").on("touchstart",function(e){
+        e.preventDefault();
+    });
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,1386 @@
+{
+  "code": 0,
+  "result": "ok",
+  "description": "success",
+  "data": {
+    "gallery": [
+      {
+        "action": {
+          "log_code": "30000002180001001",
+          "m_type": "cateid",
+          "path": "354"
+        },
+        "img_url": "http://i8.mifile.cn/v1/a1/64556050-c26f-b719-149b-80ed0a5f959e!720x360.jpg"
+      },
+      {
+        "action": {
+          "log_code": "30000002180001002",
+          "m_type": "cateid",
+          "path": "347"
+        },
+        "img_url": "http://i8.mifile.cn/v1/a1/ba4b4cf2-7798-bfe2-5900-3c3975584a74!720x360.jpg"
+      },
+      {
+        "action": {
+          "log_code": "30000002180001003",
+          "m_type": "url",
+          "path": "http://s1.mi.com/m/ghd/2016/0622summer-sale/?needValidHost=false"
+        },
+        "img_url": "http://i8.mifile.cn/v1/a1/1ac82cdb-dfb7-0fc5-164e-4fcd68a867fc!720x360.jpg"
+      },
+      {
+        "action": {
+          "log_code": "30000002180001006",
+          "m_type": "cateid",
+          "path": "352"
+        },
+        "img_url": "http://i8.mifile.cn/v1/a1/cfd89bbf-4b45-df54-5fb8-924b840eb83f!720x360.jpg"
+      },
+      {
+        "action": {
+          "log_code": "30000002180001007",
+          "m_type": "url",
+          "path": "http://a.union.mi.com/mua?c=16482.0009"
+        },
+        "img_url": "http://i8.mifile.cn/v1/a1/3cac386b-eeed-d8a2-03e4-690bcc1c7445!720x360.jpg"
+      }
+    ],
+    "sections": [
+      {
+        "body": {
+          "h": 624,
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180002001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "232",
+                "stat": ""
+              },
+              "h": 153,
+              "img_url": "http://i8.mifile.cn/v1/a1/4e6100d3-f2a4-8ad3-3770-1339203e07a6.jpg",
+              "w": 232,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "action": {
+                "log_code": "30000002180002002",
+                "login": false,
+                "m_type": "cateid",
+                "path": "347",
+                "stat": ""
+              },
+              "h": 306,
+              "img_url": "http://i8.mifile.cn/v1/a1/0d1c9f82-7126-f302-bcd5-2fb1b0b8aaa2.jpg",
+              "w": 232,
+              "x": 244,
+              "y": 0
+            },
+            {
+              "action": {
+                "log_code": "30000002180002003",
+                "login": false,
+                "m_type": "cateid",
+                "path": "354",
+                "stat": ""
+              },
+              "h": 306,
+              "img_url": "http://i8.mifile.cn/v1/a1/3d6ba28a-cf77-d6c5-e617-81fdac791416.jpg",
+              "w": 232,
+              "x": 488,
+              "y": 0
+            },
+            {
+              "action": {
+                "log_code": "30000002180002004",
+                "login": false,
+                "m_type": "product",
+                "path": "3488",
+                "stat": ""
+              },
+              "h": 153,
+              "img_url": "http://i8.mifile.cn/v1/a1/5d7621c1-80ba-613a-7984-9ed77d45bfdc.jpg",
+              "w": 232,
+              "x": 0,
+              "y": 318
+            },
+            {
+              "action": {
+                "log_code": "30000002180002005",
+                "login": false,
+                "m_type": "cateid",
+                "path": "139",
+                "stat": ""
+              },
+              "h": 306,
+              "img_url": "http://i8.mifile.cn/v1/a1/f1d0ada5-3c71-de5c-10c0-dc16e55d2e1a.jpg",
+              "w": 232,
+              "x": 244,
+              "y": 318
+            },
+            {
+              "action": {
+                "log_code": "30000002180002006",
+                "login": false,
+                "m_type": "product",
+                "path": "2774",
+                "stat": ""
+              },
+              "h": 306,
+              "img_url": "http://i8.mifile.cn/v1/a1/fa32574c-33a0-ad62-8b96-8cd732588ca0.jpg",
+              "w": 232,
+              "x": 488,
+              "y": 318
+            }
+          ],
+          "w": 720
+        },
+        "phone_type": "0",
+        "sub_view_type": 0,
+        "view_type": "mcells_auto_fill"
+      },
+      {
+        "body": {
+          "h": 200,
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180009001",
+                "login": false,
+                "m_type": "product",
+                "path": "3278",
+                "stat": ""
+              },
+              "h": 100,
+              "img_url": "http://i8.mifile.cn/v1/a1/9e82306c-2322-7ed4-e44d-e84524e70482.jpg",
+              "w": 720,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "w": 720
+        },
+        "phone_type": "0",
+        "sub_view_type": 0,
+        "view_type": "mcells_auto_fill"
+      },
+
+
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180010001",
+                "login": false,
+                "m_type": "product",
+                "path": "3281"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/dc39e456-a433-4b59-c329-36f3ce00c1f1.jpg",
+              "product_brief": "骁龙820处理器 / 4GB 内存 / 128GB 闪存 / 4轴防抖相机 / 3D陶瓷机身",
+              "product_name": "小米5 尊享版",
+              "product_price": "2699元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180011001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "354"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/517db742-917d-d2ef-5953-066c2c2f6625.jpg",
+              "product_brief": "指纹识别 / 全网通双卡双待 / 金属机身 / 4100mAh大电池",
+              "product_name": "红米手机3S",
+              "product_price": "699元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180012001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "232"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1VNJjBsdT1RXrhCrK.jpg",
+              "product_brief": "金属机身 / 指纹识别 / 4050mAh大电池 / 5.5英寸全高清屏",
+              "product_name": "红米Note 3",
+              "product_price": "899元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180013001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "340"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1XSE_B5x_1RXrhCrK.jpg",
+              "product_brief": "6.44\"大屏黄金尺寸 / 4850mAh 大电量 / 指纹识别 / 2.5D玻璃",
+              "product_name": "小米Max全网通",
+              "product_price": "1499元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180014001",
+                "login": false,
+                "m_type": "product",
+                "path": "2640"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1TrdjBKLT1RXrhCrK.jpg",
+              "product_brief": "Type-C 双面充电接口 / 红外遥控 / 5英寸全高清阳光屏 / 骁龙808六核处理器",
+              "product_name": "小米手机4c",
+              "product_price": "1099元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180015001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "139"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1RXWgBsCT1RXrhCrK.jpg",
+              "product_brief": "全金属机身 / 7.9英寸视网膜屏幕 / 800万像素相机 / 6190mAh大电池 / 支持5V/2A快充",
+              "product_name": "小米平板2",
+              "product_price": "999元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180016001",
+                "login": false,
+                "m_type": "product",
+                "path": "3380"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1ZCYgB_Ev1RXrhCrK.jpg",
+              "product_brief": "金属机身薄至9.9mm / 原装三星液晶屏 / 四核1.45GHz CPU / 杜比和dts音频双解码 / 支持壁挂",
+              "product_name": "小米电视3S 48英寸",
+              "product_price": "1999元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180017001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "327"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/823238c9-93cf-d262-626f-dea7a2b68a72.jpg",
+              "product_brief": "原装LG真4K屏幕 / 四核1.4GHz CPU / 11.63mm全金属机身薄 / 支持壁挂 / 内置海量免费高清片源",
+              "product_name": "分体电视 60英寸",
+              "product_price": "4999元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180018001",
+                "login": false,
+                "m_type": "product",
+                "path": "3379"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1YXYgBvDv1RXrhCrK.jpg",
+              "product_brief": "LG、友达 全高清液晶屏 / 金属机身薄至10.9mm / 内容丰富 / 支持壁挂",
+              "product_name": "小米电视3S 43英寸",
+              "product_price": "1799元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180019001",
+                "login": false,
+                "m_type": "product",
+                "path": "3381"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T18cEjBsVT1RXrhCrK.jpg",
+              "product_brief": "原装进口三星超薄真4K曲面屏 / 金属机身薄至5.9mm / 最美的小米电视",
+              "product_name": "小米电视3S 65英寸 曲面",
+              "product_price": "8999元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180020001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "226"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1H0K_ByKv1RXrhCrK.jpg",
+              "product_brief": "全金属轻薄机身 / 次世代分体电视",
+              "product_name": "分体电视",
+              "product_price": "3999元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180021001",
+                "login": false,
+                "m_type": "product",
+                "path": "2865"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1AJA_BXCv1RXrhCrK.jpg",
+              "product_brief": "实时监测心率，科学运动。",
+              "product_name": "小米手环 光感版",
+              "product_price": "99元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180022001",
+                "login": false,
+                "m_type": "product",
+                "path": "3674"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/db7bc4da-ec46-6475-e543-96c6052d55fd.jpg",
+              "product_brief": "爸妈上手就会用的智能血压计 / 4.3寸中文彩色大屏 / WiFi直连，测量数据云端存储 / 语音自动播报测量结果",
+              "product_name": "米家iHealth血压计",
+              "product_price": "399元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180023001",
+                "login": false,
+                "m_type": "product",
+                "path": "3386"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1uQhQByxT1RXrhCrK.jpg",
+              "product_brief": "全新升级64位 4K网络机顶盒 / 2GB内存 + 8GB容量 / 标配小米蓝牙语音体感遥控器",
+              "product_name": "小米盒子3 增强版",
+              "product_price": "399元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180024001",
+                "login": false,
+                "m_type": "product",
+                "path": "3556"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/a869e6c7-a942-6598-5a46-b58705fc5eb5.jpg",
+              "product_brief": "快速沸腾 / 水温智能控制 / 三重安全保护",
+              "product_name": "米家恒温电水壶",
+              "product_price": "199元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180025001",
+                "login": false,
+                "m_type": "product",
+                "path": "2392"
+              },
+              "img_url": "http://s1.mi.com/m/images/20151028/water.jpg",
+              "product_brief": "400加仑大流量 / RO反渗透直出纯净水",
+              "product_name": "小米净水器（厨上式）",
+              "product_price": "1299元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180026001",
+                "login": false,
+                "m_type": "product",
+                "path": "2774"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1R.xjBT_T1RXrhCrK.jpg",
+              "product_brief": "22公里超长续航 / 轻、小、便携 / 重心驱动 / 15重安全保障",
+              "product_name": "九号平衡车",
+              "product_price": "1999元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180027001",
+                "login": false,
+                "m_type": "product",
+                "path": "3398"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1ktDgBgEv1RXrhCrK.jpg",
+              "product_brief": "全新空气增压系统，净化能力高达310m³/h / 高效360°桶形净化滤芯 / 低分贝，低功耗 / 手机智能控制，一目了然",
+              "product_name": "小米空气净化器2",
+              "product_price": "699元",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/by.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180028001",
+                "login": false,
+                "m_type": "product",
+                "path": "3488"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1kJY_B_Av1RXrhCrK.jpg",
+              "product_brief": "压力IH加热技术 / 灰铸铁内胆 / 智能烹饪 / 3L大容量",
+              "product_name": "米家压力IH电饭煲",
+              "product_price": "999元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180029001",
+                "login": false,
+                "m_type": "product",
+                "path": "3486"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1s6d_B_Kv1RXrhCrK.jpg",
+              "product_brief": "全新四天线设计 / 128M超大Flash / 802.11ac 快3倍 / 更安全更稳定 / 手机远程控制",
+              "product_name": "小米路由器3",
+              "product_price": "149元",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/by.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180030001",
+                "login": false,
+                "m_type": "product",
+                "path": "3814"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/7843ec3d-548e-5171-38ac-76ed74c14972.jpg",
+              "product_brief": "OLED显示屏，时间、步数、心率，触手可及 / 全新腕带设计，升级计步算法 / 精准心率监测，科学运动自主掌握",
+              "product_name": "小米手环2",
+              "product_price": "149元",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/by.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180031001",
+                "login": false,
+                "m_type": "product",
+                "path": "3780"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/cd2e5b15-f542-da6f-a0df-c7335699c6bc.jpg",
+              "product_brief": "搭配小米多功能网关，做生活的魔术师 / 联动小米智能产品，6种动作操控",
+              "product_name": "魔方控制器",
+              "product_price": "69元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180032001",
+                "login": false,
+                "m_type": "product",
+                "path": "3478"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1_XY_BTKv1RXrhCrK.jpg",
+              "product_brief": "畅听网络电台直播 / 1600万色夜灯 / 自定义铃声 / 手机远程控制",
+              "product_name": "小米多功能网关",
+              "product_price": "149元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180033001",
+                "login": false,
+                "m_type": "product",
+                "path": "3034"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T11lb_BTKv1RXrhCrK.jpg",
+              "product_brief": "高清双向语音通话，五重定位 / 一键紧急呼救，包含位置数据及7秒环境录音 / 三重数据加密，三道安全保障，私密更安全",
+              "product_name": "米兔儿童电话手表",
+              "product_price": "299元",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/yzp.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180034001",
+                "login": false,
+                "m_type": "product",
+                "path": "3525"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/4879ccb8-4fbe-25a4-332d-c0e68d96cb75.jpg",
+              "product_brief": "小米×孩之宝，为中国粉丝量身定制，小米平板即刻变形",
+              "product_name": "变形金刚特别版声波",
+              "product_price": "169元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180035001",
+                "login": false,
+                "m_type": "product",
+                "path": "1154300014"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1H9xgB_Vv1RXrhCrK.jpg",
+              "product_brief": "【全新推出彩光版】1600万色随心搭配，冷暖色温自由调节 / 手机远程随时遥控 / 11年超长使用寿命",
+              "product_name": "智能灯泡 彩光版",
+              "product_price": "59元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180036001",
+                "login": false,
+                "m_type": "product",
+                "path": "3678"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1SHJgBjWv1RXrhCrK.jpg",
+              "product_brief": "低音增强技术 / 轻巧机身，仅一个手掌般大小 / 5小时连播，3小时充满电",
+              "product_name": "小钢炮蓝牙音箱 青春版",
+              "product_price": "79元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180037001",
+                "login": false,
+                "m_type": "product",
+                "path": "2284"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T17CxjBvET1RXrhCrK.jpg",
+              "product_brief": "720P高清分辨率 / 111°广角 / 双向语音通话 / 4倍变焦，看到画面的每一个细节",
+              "product_name": "小蚁智能摄像机",
+              "product_price": "149元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180038001",
+                "login": false,
+                "m_type": "product",
+                "path": "3479"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T13CJjBXWv1RXrhCrK.jpg",
+              "product_brief": "智能电器联动 / 温湿度异常提醒 / 工业级传感器 / 三步连接，简单上手 / 本产品需搭配小米多功能网关使用",
+              "product_name": "小米温湿度传感器",
+              "product_price": "39元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180039001",
+                "login": false,
+                "m_type": "product",
+                "path": "3619"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/002d9969-f5a5-24d2-689a-8923add57835.jpg",
+              "product_brief": "教你正确浇水施肥的养花助手 / 光温水肥精确检测 / 云端植物数据库 / 手机蓝牙连接，操作简单",
+              "product_name": "花花草草监测仪",
+              "product_price": "49元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180040001",
+                "login": false,
+                "m_type": "product",
+                "path": "3739"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1NSJ_BQLv1RXrhCrK.jpg",
+              "product_brief": "闪电传输，更快更稳定 / 极速快充，5V/2.1A / 一体式设计，耐磨抗冲击 / 线芯加粗，使用寿命长",
+              "product_name": "Type-C快充数据线",
+              "product_price": "34.9元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180041001",
+                "login": false,
+                "m_type": "product",
+                "path": "3331"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1YdJ_Bj_v1RXrhCrK.jpg",
+              "product_brief": "玲珑身材，不同凡响 / 车载通话，内置麦克风，稳定清晰，伴你安全前行 / 全金属外壳，3款经典配色",
+              "product_name": "小米随身蓝牙音箱",
+              "product_price": "59元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180042001",
+                "login": false,
+                "m_type": "product",
+                "path": "3456"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1POJ_Bsxv1RXrhCrK.jpg",
+              "product_brief": "铝合金音腔 / 扁线易收纳 / 金属复合振膜 / 内置通话麦克风",
+              "product_name": "小米活塞耳机",
+              "product_price": "29元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180043001",
+                "login": false,
+                "m_type": "product",
+                "path": "2806"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1q3A_Bgbv1RXrhCrK.jpg",
+              "product_brief": "极简设计 / 专业喇叭 / 约7小时续航 / 蓝牙4.1，兼容主流设备",
+              "product_name": "小钢炮蓝牙音箱 2",
+              "product_price": "99元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180044001",
+                "login": false,
+                "m_type": "product",
+                "path": "2759"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1YKC_BC_v1RXrhCrK.jpg",
+              "product_brief": "全新升级64位 4K网络机顶盒 / 标配小米蓝牙语音体感遥控器",
+              "product_name": "小米盒子3",
+              "product_price": "299元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180045001",
+                "login": false,
+                "m_type": "product",
+                "path": "3458"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1ykA_By__1RXrhCrK.jpg",
+              "product_brief": "动圈+动铁 双发声单元 / 20道工序打造的金属音腔，更多音乐细节 / 线控麦克风，通话质量清晰",
+              "product_name": "小米圈铁耳机",
+              "product_price": "99元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180046001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "170"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T14mdjBKxT1RXrhCrK.jpg",
+              "product_brief": "高品质电芯 / 铝合金金属外壳",
+              "product_name": "小米移动电源",
+              "product_price": "49元 起",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/hot.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180047001",
+                "login": false,
+                "m_type": "product",
+                "path": "3435"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1Z6DQByxv1RXrhCrK.jpg",
+              "product_brief": "手机一键触控，智能亮度调整",
+              "product_name": "飞利浦智睿台灯",
+              "product_price": "239元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180048001",
+                "login": false,
+                "m_type": "product",
+                "path": "3425"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1XcD_BKAv1RXrhCrK.jpg",
+              "product_brief": "专业扬声器 / WiFi直连，畅听海量网络内容",
+              "product_name": "小米网络收音机",
+              "product_price": "129元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180049001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "277"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1aFDjB_ZT1RXrhCrK.jpg",
+              "product_brief": "美国ADI传感器 / 30天超长续航",
+              "product_name": "小米手环",
+              "product_price": "69元 起",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180050001",
+                "login": false,
+                "m_type": "product",
+                "path": "2007"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T12xLgBjZT1RXrhCrK.jpg",
+              "product_brief": "3个USB充电口 / 支持2A快充 / 3重安全保护 / 隐藏式提示灯 / 超薄小插头 / 迷你设计，仅1个铅笔盒大小",
+              "product_name": "小米插线板",
+              "product_price": "49元",
+              "product_tag": "http://i8.mifile.cn/v1/a1/T1NFWQBg_T1R4cSCrK.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180051001",
+                "login": false,
+                "m_type": "product",
+                "path": "3038"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1mwV_Bydv1RXrhCrK.jpg",
+              "product_brief": "表面蜂窝形设计，防刮花 / 高弹性静音轮胎 / 内饰采用亲肤纺织布料，环保安全",
+              "product_name": "90分旅行箱 24寸",
+              "product_price": "299元",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/by.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180052001",
+                "login": false,
+                "m_type": "product",
+                "path": "2839"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1IPC_B_dv1RXrhCrK.jpg",
+              "product_brief": "4重存储空间，可携带14寸电脑 / 填充EPE珍珠棉，减少双肩背部压力",
+              "product_name": "小米极简都市双肩包",
+              "product_price": "149元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180053001",
+                "login": false,
+                "m_type": "product",
+                "path": "2989"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T19IWjBvKT1RXrhCrK.jpg",
+              "product_brief": "MFI认证产品 / 镀金C48端子头，镀锡工艺铜线 / 支持5V/2.4A电量输出",
+              "product_name": "苹果Lightning to USB数据线",
+              "product_price": "29元",
+              "product_tag": "http://c1.mifile.cn/f/i/f/mishop/iic/tj.png",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180054001",
+                "login": false,
+                "m_type": "product",
+                "path": "2843"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1tTA_BsCT1RXrhCrK.jpg",
+              "product_brief": "全金属外观 / 双USB智能输出 / 支持快充",
+              "product_name": "小米车载充电器",
+              "product_price": "39元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180055001",
+                "login": false,
+                "m_type": "product",
+                "path": "2667"
+              },
+              "img_url": "http://i8.mifile.cn/v1/a1/T1WbL_B5Vv1RXrhCrK.jpg",
+              "product_brief": "播放音乐、车载充电二合一 / 蓝牙配对，一键连接 / 双口充电，8重电路保护",
+              "product_name": "车载蓝牙播放器",
+              "product_price": "59元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180056001",
+                "login": false,
+                "m_type": "product",
+                "path": "2872"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1alVjBQCT1RXrhCrK.jpg",
+              "product_brief": "动圈+动铁 双发声单元 / 金属音腔 / 线控麦克风，清晰的通话质量",
+              "product_name": "小米圈铁耳机",
+              "product_price": "99元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180057001",
+                "login": false,
+                "m_type": "product",
+                "path": "2842"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1HTh_Bs_T1RXrhCrK.jpg",
+              "product_brief": "进口高密度电芯 / 双USB输出 / 支持快速自充 / 便携轻便，仅338克",
+              "product_name": "小米移动电源20000mAh",
+              "product_price": "129元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180058001",
+                "login": false,
+                "m_type": "product",
+                "path": "2804"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1PLJgB_dT1RXrhCrK.jpg",
+              "product_brief": "碱性10粒装5号环保电池，无汞无镉 / 防泄漏技术，双重安全保障 / 十种绚丽色彩，送收纳盒",
+              "product_name": "彩虹5号电池",
+              "product_price": "9.9元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180059001",
+                "login": false,
+                "m_type": "product",
+                "path": "2665"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1mvb_ByAv1RXrhCrK.jpg",
+              "product_brief": "仅270克，方便携带 / 完全充电，可持续使用8小时 / 支持Micro SD卡 / 支持免提通话",
+              "product_name": "小米蓝牙音箱",
+              "product_price": "180元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180060001",
+                "login": false,
+                "m_type": "product",
+                "path": "2471"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1K3A_BsAT1RXrhCrK.jpg",
+              "product_brief": "掌心大小 / PCB天线覆盖大，抗干扰 / 一键穿墙技术，自动提升信号强度",
+              "product_name": "小米路由器青春版",
+              "product_price": "79元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180061001",
+                "login": false,
+                "m_type": "product",
+                "path": "2460"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1RlE_BvDT1RXrhCrK.jpg",
+              "product_brief": "小巧轻便 / 一步配对免安装 / 不用切换热点，自动选择最优信号 / 180°旋转的USB插口",
+              "product_name": "小米Wifi放大器",
+              "product_price": "39元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180062001",
+                "login": false,
+                "m_type": "product",
+                "path": "1945"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T13EL_B5hv1RXrhCrK.jpg",
+              "product_brief": "100克，喝杯水都可感知的精准 / 高精度压力传感器 / 手机管理全家健康",
+              "product_name": "小米体重秤",
+              "product_price": "99元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180063001",
+                "login": false,
+                "m_type": "product",
+                "path": "2310"
+              },
+              "img_url": "http://i1.mifile.cn/v1/a1/T1vrh_BsCT1RXrhCrK.jpg",
+              "product_brief": "6.5克轻巧 / 蓝牙4.1高清通话音质 / 荣获德国IF设计大奖 / 低噪音硅麦，语音更清晰",
+              "product_name": "小米蓝牙耳机",
+              "product_price": "79元",
+              "product_tag": "",
+              "view_type": ""
+            }
+          ]
+        },
+        "phone_type": "0",
+        "view_type": "fast_recommend"
+      },
+      {
+        "body": {
+          "h": 200,
+          "items": [
+            {
+              "action": {
+                "log_code": "30000002180064001",
+                "login": false,
+                "m_type": "cateid",
+                "path": "232",
+                "stat": ""
+              },
+              "h": 100,
+              "img_url": "http://i8.mifile.cn/v1/a1/c170a603-74ce-9040-2d22-94f16ee05d22.jpg",
+              "w": 720,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "w": 720
+        },
+        "phone_type": "0",
+        "sub_view_type": 0,
+        "view_type": "mcells_auto_fill"
+      }
+    ]
+  }
+}
